@@ -1,0 +1,20 @@
+
+# Local secrets and build files
+local.properties
+.env
+*.jks
+*.keystore
+build/
+.gradle/
+
+# Keep local backup files out of GitHub
+*.bak
+*.backup
+*.before_*
+*.memorybackup
+*.contextbackup
+*.displayhistorybackup
+*.historybackup
+*.orbbackup
+*.stage*backup
+*.voicebackup
